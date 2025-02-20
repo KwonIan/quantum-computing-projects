@@ -28,7 +28,7 @@ Using `conda`
 
 `jupyter notebook`
 
-### Projects
+## Projects
 
 Hamiltonian Simulation (Hamiltonian Simulation.ipynb): A notebook on simulating Hamiltonians by Trotterization
 
