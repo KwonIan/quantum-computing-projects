@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+env/
+quantumEnvironment/  # Add this line to ignore your custom virtual environment
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
