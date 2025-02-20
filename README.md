@@ -4,28 +4,28 @@ A collection of quantum computing projects in Jupyter notebooks.
 ## Setup Instructions
 ### 1. Clone the repository
 
-'git clone https://github.com/your-username/quantum-computing-projects.git'
-'cd quantum-computing-projects'
+`git clone https://github.com/your-username/quantum-computing-projects.git`
+`cd quantum-computing-projects`
 
 ### 2. Set Up a Virtual Environment
 
-Using 'venv'
+Using `venv`
 
-'python -m venv venv'
-'source venv/bin/activate  # On Windows: venv\Scripts\activate'
+`python -m venv venv`
+`source venv/bin/activate  # On Windows: venv\Scripts\activate`
 
-Using 'conda'
+Using `conda`
 
-'conda env create -f environment.yml'
-'conda activate quantum-env'
+`conda env create -f environment.yml`
+`conda activate quantum-env`
 
 ### 3. Install Dependencies
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 ### 4. Run Jupyter Notebook
 
-'jupyter notebook'
+`jupyter notebook`
 
 ### Projects
 
