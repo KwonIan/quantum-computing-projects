@@ -1,7 +1,7 @@
 # Ignore the virtual environment folder
 venv/
 env/
-quantumEnvironment/  # Add this line to ignore your custom virtual environment
+quantumEnvironment/  # This is the name of my virtual environment, you may want to edit it out for yours
 .env/
 __pycache__/
 *.pyc
