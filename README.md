@@ -4,7 +4,7 @@ A collection of quantum computing projects in Jupyter notebooks.
 ## Setup Instructions
 ### 1. Clone the repository
 
-`git clone https://github.com/your-username/quantum-computing-projects.git`
+`git clone https://github.com/KwonIan/quantum-computing-projects.git`
 
 `cd quantum-computing-projects`
 
